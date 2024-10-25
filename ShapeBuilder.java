@@ -11,7 +11,6 @@ public class ShapeBuilder {
         shapes.add(s);
     }
 
-    // 4.4: Beregn det samlede areal af alle shapes
     public double getTotalArea() {
         double totalArea = 0;
         for (Shape s : shapes) {
