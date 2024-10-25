@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("Circle area: " + circle.getArea());
         System.out.println("Square area: " + square.getArea());
-        System.out.println("Total area: " + shapeBuilder.getTotalArea());  // Should print 94.5
+        System.out.println("Total area: " + shapeBuilder.getTotalArea());
 
     }
 }
